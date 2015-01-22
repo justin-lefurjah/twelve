@@ -1,0 +1,148 @@
+body{
+    background-color: black;
+}
+
+
+
+.gamebutton{
+    display:inline-block;
+    margin:0 0px 0px;
+    width: 5em;
+    height: 5em;
+}
+
+.controlbutton{
+    display:inline-block;
+    margin:0 0px 0px;
+
+}
+
+.container{
+    display:block;
+    max-width:100%;
+    text-align:center;
+    margin:0 auto;
+    color: white;
+}
+
+#title {
+    margin-bottom: 2%;
+    text-align: center;
+    width: 100%;
+    color: #00FF00;
+    font-size: 4em;
+    font-family: helvetica;
+}
+
+#one {
+    background: white;
+    border: 1px black solid;
+
+
+}
+
+#two {
+    background: white;
+    border: 1px black solid;
+
+
+
+
+}
+
+#three {
+    
+    background: white;
+    border: 1px black solid;
+
+
+}
+
+#four {
+   
+    background: white;
+    border: 1px black solid;
+
+}
+
+#five   {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+#six {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+
+#seven {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+
+#eight {
+ 
+    background: white;
+    border: 1px black solid;
+
+}
+#nine {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+#ten {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+#eleven {
+    
+    background: white;
+    border: 1px black solid;
+
+}
+#twelve {
+   
+    background: white;
+    border: 1px black solid;
+
+}
+ .button{
+    height: 1.75em;
+    line-height: 1.75em;
+    width: 3.25em;
+    font-family: helvetica;
+    font-size: 1.5em;
+    background: #00FF00;
+    margin-top: .5em;
+    font-weight: bold;
+}
+
+.append{
+
+    color: white;
+    font-size: 100;
+}
+
+#score{
+    color: white;
+    font-size: 1.2em;
+    display:inline-block;
+    margin-right: 6em;
+    margin-bottom: 1em;
+}
+
+#level{
+    color: white;
+    font-size: 1.2em;
+    display:inline-block;
+    margin-bottom: 1em;
+}
